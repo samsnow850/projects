@@ -22,7 +22,7 @@ I'm a student, builder, and creative explorer based in **San Francisco** — pas
 I work on all kinds of things, but browser extensions are my favorite so far.
 
 👉 **View my full list of Chrome Extensions:**  
-[📁 Chrome Extensions](https://github.com/samsnow850/projects/blob/main/chrome-extensions.md)
+[📁 Chrome Extensions](https://github.com/samsnow850/projects/blob/master/chrome-extensions.md)
 
 ---
 
