@@ -30,6 +30,7 @@ I work on all kinds of things, but browser extensions are my favorite so far.
 
 - 🌐 [My Website](https://samuelesnow.co)
 - 🧑‍💻 [My GitHub Profile](https://github.com/samsnow850)
+- [Projects Website](https://samsnow850.github.io/projects/)
 
 ---
 
