@@ -65,26 +65,6 @@ Each project is personal, creative, and designed to improve your browsing experi
 
 ---
 
-## ▶️ Video Popup
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/samsnow850/Video-Popup/main/assets/icon128.png" width="80" alt="Video Popup Logo" />
-
-![License](https://img.shields.io/github/license/samsnow850/Video-Popup)
-![Last Commit](https://img.shields.io/github/last-commit/samsnow850/Video-Popup)
-![Contributors](https://img.shields.io/github/contributors/samsnow850/Video-Popup)
-![Stars](https://img.shields.io/github/stars/samsnow850/Video-Popup)
-![Forks](https://img.shields.io/github/forks/samsnow850/Video-Popup)
-
-[![Download](https://img.shields.io/badge/Download-Chrome%20Web%20Store-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)](https://chrome.google.com/webstore/detail/video-popup/fldblnncdldjhjfbelodapcpnhmgdbkg)
-
-</div>
-
-**A powerful Chrome extension that lets you pop out any HTML5 video into a floating, always-on-top window using native Picture-in-Picture (PiP) technology — making multitasking easier and video watching more flexible.**
-
----
-
 ## 🌐 Visit My Website
 
 [![Website](https://img.shields.io/badge/My%20Website-samuelesnow.co-00BCD4?style=for-the-badge)](https://samuelesnow.co)
